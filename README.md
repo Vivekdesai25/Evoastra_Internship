@@ -11,7 +11,6 @@ This repository contains hands-on projects completed during my internship at **E
 - Individual and team-based task execution  
 - Practical exposure to real-world data projects
 
-
 ## Project Structure
 
 ### Task 1: Mini Project – Web Scraping of MG Cars (Cars24)
