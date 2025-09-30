@@ -26,7 +26,7 @@ To scrape used MG car listings from [Cars24](https://www.cars24.com/buy-used-mg-
 - Fuel Type  
 - Transmission  
 - Ownership Type  
-- Price  
+- Price 
 - Location  
 
 **Tools Used**:
@@ -77,7 +77,6 @@ To perform data cleaning, exploratory data analysis (EDA), and visualization to 
 - Practiced full-cycle data analysis from raw to cleaned data  
 - Improved skills in teamwork, communication, and GitHub collaboration  
 
----
 
 ## Conclusion
 
