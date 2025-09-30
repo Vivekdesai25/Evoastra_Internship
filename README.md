@@ -56,7 +56,7 @@ To perform data cleaning, exploratory data analysis (EDA), and visualization to 
 **Tools Used**:
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Jupyter / Colab notebooks  
+- Jupyter / Google Colab notebooks  
 
 **Files**:
 - Notebook: [`EDA.ipynb`](https://github.com/Vivekdesai25/Evoastra_Internship/blob/main/EDA.ipynb)  
