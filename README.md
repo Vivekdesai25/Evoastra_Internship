@@ -6,7 +6,6 @@ This repository contains hands-on projects completed during my internship at **E
 
 ## Internship Highlights
 
-
 - Remote-first collaborative learning environment  
 - Individual and team-based task execution  
 - Practical exposure to real-world data projects
