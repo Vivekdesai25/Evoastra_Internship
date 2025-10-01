@@ -18,14 +18,14 @@ This repository contains hands-on projects completed during my internship at **E
 To scrape used MG car listings from [Cars24](https://www.cars24.com/buy-used-mg-cars-mumbai/) for data analysis.
 
 **Features Scraped**:
-- Manufacture Year  
+- Manufacture Years  
 - Car Title  
 - Variant  
 - Kilometers Driven  
 - Fuel Type  
 - Transmission  
 - Ownership Type  
-- Price 
+- Prices 
 - Location  
 
 **Tools Used**:
