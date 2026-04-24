@@ -30,7 +30,7 @@ To scrape used MG car listings from [Cars24](https://www.cars24.com/buy-used-mg-
 
 **Tools Used**:
 - Python, BeautifulSoup, Requests  
-- Pandas for data storage and formatting  
+- Pandas, Matplotlib for data storage and formatting  
 
 **Files**:
 - Notebook: [`EDA.ipynb`](https://github.com/Vivekdesai25/Evoastra_Internship/blob/main/Task%201/Mini%20Project/EDA.ipynb)  
